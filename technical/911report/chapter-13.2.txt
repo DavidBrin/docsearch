@@ -14,7 +14,7 @@
                 DHS-Department of Homeland Security; DOD-Department of Defense; DOJ-Department of
                 Justice; DOS-Department of State; DOT-Department of Transportation;
                 EPA-Environmental Protection Agency; FAA-Federal Aviation Administration;
-                FBI-Federal Bureau of Investigation; FDNY-Fire Department of New York; GAO-General
+                FBI-Federal Bureau of Investigation; FDNY-Fire Depwcartment of New York; GAO-General
                 Accounting Office; INS-Immigration and Naturalization Service; NEADS-Northeast Air
                 Defense Sector; NSA-National Security Agency; NSC-National Security Council;
                 NTSB-National Transportation Safety Board; NYPD-New York Police Department;
